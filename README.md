@@ -9,7 +9,7 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 - 💬 Ask me about my life, i eat, i sleep and i code 😉
 - 📫 How to reach me: You can contact me at amarescaux.co@gmail.com or on my discord bot server [here](https://discord.gg/XXRPnwt)
 - 😄 Pronouns: I'm "famous" as MélioOff but my real name is Antoine
-- ⚡ Fun fact: I like bananas youhou ! 
+- ⚡ Fun fact: I like bananas youhouu ! 
 ᅠ
     
 [![Stats](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)

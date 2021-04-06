@@ -7,7 +7,7 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 - 👯 I’m looking to collaborate on the Yuniverse project
 - 🤔 I’m looking for help with my discord bot project, i'm searching of helpers..etc
 - 💬 Ask me about my life, i eat, i sleep and i code 😉
-- 📫 How to reach me: You can contact me at amarescaux.co@gmail.com or on my discord server [here](https://discord.gg/G6WQsMQShZ)
+- 📫 How to reach me: You can contact me at amarescaux.co@gmail.com or on my [discord server](https://discord.gg/G6WQsMQShZ)
 - 😄 Pronouns: I'm "famous" as MélioOff but my real name is Antoine
 - ⚡ Fun fact: I like bananas youhouu ! 
 ᅠ

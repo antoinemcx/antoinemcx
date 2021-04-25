@@ -19,7 +19,7 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0nFzeJC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/uvlgypdjtnfsi0x5x1gd.jpeg"></code>  
+<code><img height="20" src="https://img.icons8.com/color/452/npm.png"></code>  
 ᅠ  
 ᅠ  
 [![Stats](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)

@@ -18,7 +18,6 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <code><img height="20" src="https://github.com/hussainweb/hussainweb/raw/main/icons/mariadb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" src="https://www.alwaysdata.com/static/img/technologies/languages/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/npm.png"></code>  
 ᅠ  
 ᅠ  

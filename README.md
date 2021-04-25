@@ -4,7 +4,6 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 
 - 🔭 I’m currently working on [Méliodas](https://top.gg/bot/562571094947659783)
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on the Yuniverse project
 - 💬 Ask me, talk..etc about anything [here](https://discord.gg/G6WQsMQShZ)
 - 😄 Pronouns: I'm know as MélioOff but my real name is Antoine  
   

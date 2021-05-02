@@ -18,9 +18,8 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <code><img height="20" src="https://github.com/hussainweb/hussainweb/raw/main/icons/mariadb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/452/npm.png"></code>  
+<code><img height="20" src="https://img.icons8.com/color/452/npm.png"></code>
 <code><img height="20" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>  
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>  
 ᅠ  
 ᅠ  
 [![Stats](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)

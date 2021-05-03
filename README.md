@@ -1,6 +1,6 @@
 ## Hi i'm MélioOff 👋
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark">](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark">](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)
 
 I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taught. Here is some informations about me
 

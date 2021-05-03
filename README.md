@@ -1,6 +1,6 @@
 ## Hi i'm MélioOff 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark">](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
 
 I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taught. Here is some informations about me
 
@@ -24,4 +24,4 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <code><img height="20" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>  
 ᅠ  
 ᅠ  
-[![Stats](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)

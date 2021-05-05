@@ -20,7 +20,7 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <code><img height="25" src="https://github.com/hussainweb/hussainweb/raw/main/icons/mariadb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
-<code><img height="25" src="https://img.icons8.com/color/452/npm.png"></code>
+<code><img height="25" src="https://pbs.twimg.com/profile_images/1285630920263966721/Uk6O1QGC_400x400.jpg"></code>
 <code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>  
   

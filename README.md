@@ -4,13 +4,13 @@ Welcome to my Github, I'm **Antoine** ([Mélioᴼᶠᶠ💫#9214](https://discor
 By the way, I'm mainly "specialized" in web development and discord bots.  
    
 On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com) ; below more information !   
-#### 🌱 Main projects :  
+### 🌱 Main projects :  
 
-- [@Méliodas](https://meliodasbot.fr) an easy-to-use multifunction discord bot
-- [StellarBotList](https://stellarbotlist.com) a bot list to really reference your discord bots
-- [Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands) a discord music bot
-- [Ravnica](https://discord.gg/Wa8x8WUFSF) a French roleplay discord server   
-#### 🛰️ Languages and Tools :  
+* **[@Méliodas](https://meliodasbot.fr)** an easy-to-use multifunction discord bot
+* **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots
+* **[Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot
+* **[Ravnica](https://discord.gg/Wa8x8WUFSF)** a French roleplay discord server   
+### 🛰️ Languages and Tools :  
 
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>

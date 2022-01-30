@@ -1,6 +1,4 @@
-## 👋 Hi i'm MélioOff [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
-
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+## 👋 ・ Hi i'm MélioOff   [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
 I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taught. Here is some informations about me
 
@@ -27,4 +25,4 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 ᅠ  
 #### Most used languages on github :    
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark) [<img align="right" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)

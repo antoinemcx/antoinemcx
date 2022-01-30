@@ -1,15 +1,9 @@
 ## 👋 ・ Hi i'm MélioOff   [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
-Welcome to my Github, I'm **Antoine** (Mélioᴼᶠᶠ💫#9214), a French developer, self-taught beginner and passionate about IT.   
+Welcome to my Github, I'm **Antoine** ([Mélioᴼᶠᶠ💫#9214](https://discord.gg/G6WQsMQShZ)), a French developer, self-taught beginner and passionate about IT.   
 By the way, I'm mainly "specialized" in web development and discord bots.  
    
 On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com); below more information !   
-
-- 🔭 I’m currently working on [Méliodas](https://top.gg/bot/562571094947659783)
-- 🌱 I’m currently learning ExpressJS
-- 💬 Ask me, talk..etc about anything [here](https://discord.gg/G6WQsMQShZ)
-- 💾 I can't do without [VSCode](https://code.visualstudio.com/) to code  
-  
 ᅠ  
 #### Languages and Tools :  
 

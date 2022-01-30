@@ -10,6 +10,11 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 * **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots
 * **[Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot
 * **[Ravnica](https://discord.gg/Wa8x8WUFSF)** a French roleplay discord server   
+### 📡 Contact me :  
+
+* Discord - **[Discord server](https://discord.gg/G6WQsMQShZ)**
+* Twitter - **[@melio_off](https://twitter.com/melio_off)**
+* Instagram - **[@meliooff_](https://instagram.com/meliooff_)**   
 ### 🛰️ Languages and Tools :  
 
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>

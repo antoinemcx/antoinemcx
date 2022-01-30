@@ -1,4 +1,4 @@
-## Hi i'm MélioOff 👋 [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
+## 👋 Hi i'm MélioOff [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
 

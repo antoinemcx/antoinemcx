@@ -19,7 +19,7 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>   
    
    
-<details>
+<br><details>
   <summary><b>My github statistics</b></summary>
   
   [<img align="left" style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)

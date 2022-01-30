@@ -25,4 +25,8 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 ᅠ  
 #### Most used languages on github :    
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark) [<img align="right" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+<details>
+  <summary><b>My github statistics</b></summary>
+  
+  [<img align="left" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+</details>

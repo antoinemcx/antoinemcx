@@ -5,7 +5,6 @@ By the way, I'm mainly "specialized" in web development and discord bots.
    
 On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com) ; below more information !   
 ### 🌱 Main projects :  
-<hr>
 
 * **[@Méliodas](https://meliodasbot.fr)** an easy-to-use multifunction discord bot
 * **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots

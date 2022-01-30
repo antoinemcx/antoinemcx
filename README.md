@@ -4,7 +4,6 @@ Welcome to my Github, I'm **Antoine** ([Mélioᴼᶠᶠ💫#9214](https://discor
 By the way, I'm mainly "specialized" in web development and discord bots.  
    
 On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com); below more information !   
-ᅠ  
 #### Languages and Tools :  
 
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>

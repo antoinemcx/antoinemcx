@@ -28,5 +28,6 @@ I'm a french HTML, CSS, JavaScript, NodeJS & Python developer starting self-taug
 <details>
   <summary><b>My github statistics</b></summary>
   
-  <hr>[<img align="left" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+  <br>
+  [<img align="left" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
 </details>

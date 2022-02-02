@@ -8,7 +8,7 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 
 * **[@Méliodas](https://meliodasbot.fr)** an easy-to-use multifunction discord bot
 * **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots
-* **[Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot
+* **[@Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot
 * **[Ravnica](https://discord.gg/Wa8x8WUFSF)** a French roleplay discord server   
 ## 📡 Contact me :  
 

@@ -12,9 +12,8 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 ## 📡 Contact me :  
 
 * Discord - **[Discord server](https://discord.gg/G6WQsMQShZ)**
-* Personal Website - **[Website](https://antoinemcx.fr)**
 * Twitter - **[@melio_off](https://twitter.com/melio_off)**
-* Instagram - **[@meliooff_](https://instagram.com/meliooff_)**   
+* Personal Website - **[Website](https://antoinemcx.fr)**   
 ## 🛰️ Languages and Tools :  
 
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>

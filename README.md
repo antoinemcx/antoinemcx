@@ -25,9 +25,9 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 <code><img height="25" src="https://github.com/hussainweb/hussainweb/raw/main/icons/mariadb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
-<code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>   
+<code><img height="25" src="https://i.imgur.com/h3z75Oi.jpg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>  
    
    
 <br><details>

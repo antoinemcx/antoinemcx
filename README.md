@@ -6,7 +6,7 @@ By the way, I'm mainly "specialized" in web development and discord bots.
 On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com) ; below more information !   
 ## 🌱 Main projects :  
 
-* **[@Méliodas](https://meliodasbot.fr)** an easy-to-use multifunction discord bot
+* **[@Méliodas](https://meliodas.antoinemcx.fr)** an easy-to-use multifunction discord bot
 * **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots
 * **[@Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot   
 ## 📡 Contact me :  
@@ -22,12 +22,13 @@ On the other hand, I'm mainly known as the founder of [@Méliodas](https://melio
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
-<code><img height="25" src="https://github.com/hussainweb/hussainweb/raw/main/icons/mariadb.png"></code>
+<code><img height="25" src="https://www.blockachain.gr/wp-content/uploads/2018/03/mariadb-logo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/373574/ejs.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>  
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="25" src="https://vitejs.dev/logo-with-shadow.png"></code>  
    
    
 <br><details>

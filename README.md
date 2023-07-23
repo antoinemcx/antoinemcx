@@ -1,40 +1,52 @@
-## 👋・Hi i'm MélioOff   [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
+## 👋 Hi i'm Melio &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
-Welcome to my Github, I'm **Antoine** ([Melio.#9214](https://discord.gg/G6WQsMQShZ)), a French developer, self-taught beginner and passionate about IT.   
-By the way, I'm mainly "specialized" in web development and discord bots.  
-   
-On the other hand, I'm mainly known as the founder of [@Méliodas](https://meliodasbot.fr) or [StellarBotList](https://stellarbotlist.com) ; below more information !   
-## 🌱 Main projects :  
+Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French self-taught full-stack developer with a passion for IT.  
+Founder and developer of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[StellarBotList](https://stellarbotlist.com)** and **[Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)**, I'm more into web development and discord bots.
 
-* **[@Méliodas](https://meliodas.antoinemcx.fr)** an easy-to-use multifunction discord bot
-* **[StellarBotList](https://stellarbotlist.com)** a bot list to really reference your discord bots
-* **[@Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)** a discord music bot   
-## 📡 Contact me :  
+<br>
 
-* Discord - **[Discord server](https://discord.gg/G6WQsMQShZ)**
-* Twitter - **[@melio_off](https://twitter.com/melio_off)**
-* Personal Website - **[Website](https://antoinemcx.fr#contact)**
-* Email - **[contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)**   
-## 🛰️ Languages and Tools :  
+<details>
+  <summary><b>🛰️ Find me</b></summary>
 
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
-<code><img height="25" src="https://www.blockachain.gr/wp-content/uploads/2018/03/mariadb-logo.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
-<code><img height="25" src="https://www.svgrepo.com/show/373574/ejs.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="25" src="https://vitejs.dev/logo-with-shadow.png"></code>  
-   
-   
-<br><details>
-  <summary><b>My github statistics</b></summary>
+  * Twitter - [@dev_melio](https://twitter.com/dev_melio)
+  * Discord - **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
+</details>
+<details>
+  <summary><b>📈 My github statistics</b></summary>
   
-  [<img style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=contribs&show_icons=true&theme=dark)
-</details>   
+  <img src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=contribs,prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15">
+  &ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&line-height=50&langs_count=6">
+</details>
 
-###### Feel free to join [my discord server](https://discord.gg/G6WQsMQShZ) dedicated to development
+<br>
+
+#### Languages and tools :
+<p> <!-- +mariadb | +debian+npm -->
+    <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
+    <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
+    &ensp;<code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
+    <code><a href="https://nodejs.org/"><img height="22" src="https://skillicons.dev/icons?i=nodejs"></a></code>
+    <code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
+    <code><a href="https://www.w3.org/TR/CSS/#css"><img height="22" src="https://skillicons.dev/icons?i=css"></a></code>
+    <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
+    <code><a href="https://vitejs.dev/"><img height="22" src="https://skillicons.dev/icons?i=vite"></a></code>
+    <code><a href="https://expressjs.com/"><img height="22" src="https://skillicons.dev/icons?i=express"></a></code>
+    &ensp;<code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
+</p>
+
+#### Less used :
+<p>
+    <code><a href="https://kernel.org/"><img height="22" src="https://skillicons.dev/icons?i=linux"></a></code>
+    &ensp;<code><a href="https://www.nginx.com/"><img height="22" src="https://skillicons.dev/icons?i=nginx"></a></code>
+    <code><a href="https://www.cloudflare.com"><img height="22" src="https://skillicons.dev/icons?i=cloudflare"></a></code>
+    &ensp;<code><a href="https://getbootstrap.com/"><img height="22" src="https://skillicons.dev/icons?i=bootstrap"></a></code>
+    <code><a href="https://jquery.com/"><img height="22" src="https://skillicons.dev/icons?i=jquery"></a></code>
+    <code><a href="https://ejs.co/"><img height="22" src="https://www.svgrepo.com/show/373574/ejs.svg"></a></code>
+    <code><a href="https://pugjs.org/"><img height="22" src="https://skillicons.dev/icons?i=pug"></a></code>
+    &ensp;<code><a href="https://www.python.org/"><img height="22" src="https://skillicons.dev/icons?i=py"></a></code>
+    <code><a href="https://www.mongodb.com/"><img height="22" src="https://skillicons.dev/icons?i=mongodb"></a></code>
+</p>
+
+<br>
+
+Contact me with [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr) or on my **[personal website](https://antoinemcx.fr#contact)**

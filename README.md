@@ -17,6 +17,12 @@ Founder and developer of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[Ste
   <img src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=contribs,prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15">
   &ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&line-height=50&langs_count=6">
 </details>
+<details>
+  <summary><b>🕐 My coding stats of the week</b></summary>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 <br>
 

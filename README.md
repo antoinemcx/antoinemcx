@@ -44,7 +44,7 @@ JavaScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░
     <code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
     <code><a href="https://www.w3.org/TR/CSS/#css"><img height="22" src="https://skillicons.dev/icons?i=css"></a></code>
     <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
-    <code><a href="https://vitejs.dev/"><img height="22" src="https://skillicons.dev/icons?i=vite"></a></code>
+    <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
     <code><a href="https://expressjs.com/"><img height="22" src="https://skillicons.dev/icons?i=express"></a></code>
     &ensp;<code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
 </p>
@@ -56,6 +56,7 @@ JavaScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░
     <code><a href="https://www.cloudflare.com"><img height="22" src="https://skillicons.dev/icons?i=cloudflare"></a></code>
     &ensp;<code><a href="https://getbootstrap.com/"><img height="22" src="https://skillicons.dev/icons?i=bootstrap"></a></code>
     <code><a href="https://jquery.com/"><img height="22" src="https://skillicons.dev/icons?i=jquery"></a></code>
+    <code><a href="https://vitejs.dev/"><img height="22" src="https://skillicons.dev/icons?i=vite"></a></code>
     <code><a href="https://ejs.co/"><img height="22" src="https://www.svgrepo.com/show/373574/ejs.svg"></a></code>
     <code><a href="https://pugjs.org/"><img height="22" src="https://skillicons.dev/icons?i=pug"></a></code>
     &ensp;<code><a href="https://www.python.org/"><img height="22" src="https://skillicons.dev/icons?i=py"></a></code>

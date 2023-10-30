@@ -29,21 +29,25 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+  My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/badge/user/70c9cecc-df19-4600-9919-f5dd6fd9b222.svg)](https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222)
 </details>
 
 <br>
 
 #### Languages and tools :
-<p> <!-- +mariadb | +debian+npm -->
+<p> <!-- +mariadb | +debian +npm -->
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
-    &ensp;<code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
+    &ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
+    <code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
     <code><a href="https://nodejs.org/"><img height="22" src="https://skillicons.dev/icons?i=nodejs"></a></code>
+    &ensp;<code><a href="https://www.typescriptlang.org/"><img height="22" src="https://skillicons.dev/icons?i=ts"></a></code>
     <code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
     <code><a href="https://www.w3.org/TR/CSS/#css"><img height="22" src="https://skillicons.dev/icons?i=css"></a></code>
+    <code><a href="https://https://tailwindcss.com/"><img height="22" src="https://skillicons.dev/icons?i=tailwind"></a></code>
     <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
     <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
-    <code><a href="https://expressjs.com/"><img height="22" src="https://skillicons.dev/icons?i=express"></a></code>
     &ensp;<code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
 </p>
 
@@ -52,11 +56,12 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
     <code><a href="https://kernel.org/"><img height="22" src="https://skillicons.dev/icons?i=linux"></a></code>
     &ensp;<code><a href="https://www.nginx.com/"><img height="22" src="https://skillicons.dev/icons?i=nginx"></a></code>
     <code><a href="https://www.cloudflare.com"><img height="22" src="https://skillicons.dev/icons?i=cloudflare"></a></code>
-    &ensp;<code><a href="https://getbootstrap.com/"><img height="22" src="https://skillicons.dev/icons?i=bootstrap"></a></code>
-    <code><a href="https://jquery.com/"><img height="22" src="https://skillicons.dev/icons?i=jquery"></a></code>
+    &ensp;<code><a href="https://expressjs.com/"><img height="22" src="https://skillicons.dev/icons?i=express"></a></code>
     <code><a href="https://vitejs.dev/"><img height="22" src="https://skillicons.dev/icons?i=vite"></a></code>
     <code><a href="https://ejs.co/"><img height="22" src="https://www.svgrepo.com/show/373574/ejs.svg"></a></code>
     <code><a href="https://pugjs.org/"><img height="22" src="https://skillicons.dev/icons?i=pug"></a></code>
+    <code><a href="https://getbootstrap.com/"><img height="22" src="https://skillicons.dev/icons?i=bootstrap"></a></code>
+    <code><a href="https://jquery.com/"><img height="22" src="https://skillicons.dev/icons?i=jquery"></a></code>
     &ensp;<code><a href="https://www.python.org/"><img height="22" src="https://skillicons.dev/icons?i=py"></a></code>
     <code><a href="https://www.mongodb.com/"><img height="22" src="https://skillicons.dev/icons?i=mongodb"></a></code>
 </p>

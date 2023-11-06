@@ -23,11 +23,11 @@ Founder and developer of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[Ste
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   36.71 %
-JavaScript   3 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Java         3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-JSON         1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-SQL          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+TypeScript   4 hrs 53 mins   █████████▒░░░░░░░░░░░░░░░   37.74 %
+JavaScript   3 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 %
+Java         3 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+SQL          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->

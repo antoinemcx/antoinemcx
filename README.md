@@ -39,6 +39,7 @@ SQL     0 secs          ░░░░░░░░░░░░░░░░░░�
 #### Languages and tools :
 <p> <!-- +mariadb | +debian +npm -->
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
+    <code><a href="https://eclipseide.org/"><img height="22" src="https://skillicons.dev/icons?i=eclipse"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
     &ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
     <code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
@@ -64,6 +65,7 @@ SQL     0 secs          ░░░░░░░░░░░░░░░░░░�
     <code><a href="https://getbootstrap.com/"><img height="22" src="https://skillicons.dev/icons?i=bootstrap"></a></code>
     <code><a href="https://jquery.com/"><img height="22" src="https://skillicons.dev/icons?i=jquery"></a></code>
     &ensp;<code><a href="https://www.python.org/"><img height="22" src="https://skillicons.dev/icons?i=py"></a></code>
+    <code><a href="https://www.r-project.org/about.html"><img height="22" src="https://skillicons.dev/icons?i=r"></a></code>
     <code><a href="https://www.mongodb.com/"><img height="22" src="https://skillicons.dev/icons?i=mongodb"></a></code>
 </p>
 

@@ -23,7 +23,7 @@ Founder and developer of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[Ste
   <!--START_SECTION:waka-->
 
 ```txt
-SQL   1 hr 33 mins    █████████████████████████   100.00 %
+SQL   2 hrs 13 mins   █████████████████████████   100.00 %
 R     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

@@ -58,7 +58,7 @@ Image (png)   0 secs          ░░░░░░░░░░░░░░░░�
 
 My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/badge/user/70c9cecc-df19-4600-9919-f5dd6fd9b222.svg)](https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222)
 
-<br>
+#
 
 #### Most used languages and tools :
 <p> <!-- +mariadb -->

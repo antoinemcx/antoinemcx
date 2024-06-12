@@ -10,6 +10,7 @@ Founder of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[StellarBotList](h
 <details>
   <summary><b>🛰️ Find me</b></summary>
 
+  * Email - [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
   * Website - **[My personal website](https://antoinemcx.fr)**
   * Twitter - [@dev_melio](https://twitter.com/dev_melio)
   * Discord - **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
@@ -76,7 +77,3 @@ My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/b
     <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
     <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
 </p>
-
-#
-
-Contact me with [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr) or on my **[personal website](https://antoinemcx.fr#contact)**

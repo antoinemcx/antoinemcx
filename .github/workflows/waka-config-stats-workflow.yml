@@ -10,6 +10,29 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update weekly statistics
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          COMMIT_MESSAGE: Update weekly Wakatime stats
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 4
+          
+      - name: Update monthly statistics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: wakamonthly
+          COMMIT_MESSAGE: Update monthly Wakatime stats
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 4
+          
+      - name: Update yearly statistics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: wakayearly
+          COMMIT_MESSAGE: Update yearly Wakatime stats
+          TIME_RANGE: last_year
+          LANG_COUNT: 6

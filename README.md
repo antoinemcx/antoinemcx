@@ -41,8 +41,14 @@ Java   19 mins         ███████████████████
   
   <!--START_SECTION:wakamonthly-->
 
-  
-  <!--END_SECTION:wakamonthly-->
+```txt
+Java          50 hrs 10 mins  ███████████████████████▓░   94.21 %
+CSS           1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+JavaScript    54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
+
+<!--END_SECTION:wakamonthly-->
   
 </details>
 <details>

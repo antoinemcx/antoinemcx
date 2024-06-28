@@ -45,10 +45,10 @@ TSConfig     9 mins          ▒░░░░░░░░░░░░░░░░
   <!--START_SECTION:wakamonthly-->
 
 ```txt
-Java             19 hrs 34 mins  ████████████░░░░░░░░░░░░░   47.62 %
-TypeScript       16 hrs 16 mins  ██████████░░░░░░░░░░░░░░░   39.61 %
-JSON             1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JavaScript       1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Java             18 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   44.98 %
+TypeScript       17 hrs 46 mins  ██████████▓░░░░░░░░░░░░░░   42.42 %
+JSON             1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+JavaScript       1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:wakamonthly-->

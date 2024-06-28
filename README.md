@@ -40,21 +40,6 @@ TSConfig     9 mins          ▒░░░░░░░░░░░░░░░░
 
 </details>
 <details>
-  <summary><b>🕜 Monthly coding stats</b></summary>
-  
-  <!--START_SECTION:wakamonthly-->
-
-```txt
-Java             18 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   44.98 %
-TypeScript       17 hrs 46 mins  ██████████▓░░░░░░░░░░░░░░   42.42 %
-JSON             1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-JavaScript       1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-```
-
-<!--END_SECTION:wakamonthly-->
-  
-</details>
-<details>
   <summary><b>🕙 Yearly coding stats</b></summary>
   
   <!--START_SECTION:wakayearly-->

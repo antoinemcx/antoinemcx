@@ -42,14 +42,14 @@ No activity tracked
   <!--START_SECTION:wakayearly-->
 
 ```txt
-Java             109 hrs 12 mins ██████████▓░░░░░░░░░░░░░░   43.00 %
-TypeScript       91 hrs 51 mins  █████████░░░░░░░░░░░░░░░░   36.17 %
-JavaScript       16 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-CSS              8 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON             7 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-SQL              5 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTML             5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown         2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java             109 hrs 12 mins ███████████░░░░░░░░░░░░░░   43.49 %
+TypeScript       89 hrs          █████████░░░░░░░░░░░░░░░░   35.45 %
+JavaScript       16 hrs 50 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+CSS              8 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JSON             7 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+SQL              5 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+HTML             5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown         2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:wakayearly-->

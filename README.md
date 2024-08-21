@@ -44,8 +44,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
   <!--START_SECTION:wakayearly-->
 
 ```txt
-Java             109 hrs 17 mins ███████████▓░░░░░░░░░░░░░   46.15 %
-TypeScript       77 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   32.76 %
+Java             109 hrs 17 mins ███████████▓░░░░░░░░░░░░░   46.13 %
+TypeScript       77 hrs 39 mins  ████████▒░░░░░░░░░░░░░░░░   32.78 %
 JavaScript       16 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 JSON             6 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 CSS              6 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %

@@ -42,21 +42,17 @@ Text      1 min           ░░░░░░░░░░░░░░░░░░
 <details>
   <summary><b>🕙 Yearly coding stats</b></summary>
   
-  <!--START_SECTION:wakayearly-->
-
-```txt
-Java             166 hrs 47 mins ███████████████░░░░░░░░░░   60.18 %
-TypeScript       65 hrs 33 mins  ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-JavaScript       9 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-HTML             6 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-SQL              5 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-CSS              5 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON             5 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-PHP              3 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-```
-
-<!--END_SECTION:wakayearly-->
-  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23" />
+  </picture>
 </details>
 
 My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/badge/user/70c9cecc-df19-4600-9919-f5dd6fd9b222.svg)](https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222)

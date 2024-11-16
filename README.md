@@ -18,8 +18,8 @@ Founder of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[StellarBotList](h
 <details>
   <summary><b>📈 My github statistics</b></summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15&hide_rank=true&card_width=350">
-  &ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&hide_title=true">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15&hide_rank=true&card_width=350">
+  &ensp;<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&hide_title=true">
 </details>
 
 <br>

@@ -65,14 +65,17 @@ My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/b
     <code><a href="https://eclipseide.org/"><img height="22" src="https://skillicons.dev/icons?i=eclipse"></a></code>
     <code><a href="https://www.debian.org/index.fr.html"><img height="22" src="https://skillicons.dev/icons?i=debian"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
-    &ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
+    <code><a href="https://www.docker.com"><img height="22" src="https://skillicons.dev/icons?i=docker"></a></code>
+    &ensp;&ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
     <code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
+    <code><a href="https://www.typescriptlang.org/"><img height="22" src="https://skillicons.dev/icons?i=ts"></a></code>
     <code><a href="https://nodejs.org/"><img height="22" src="https://skillicons.dev/icons?i=nodejs"></a></code>
     <code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
-    &ensp;<code><a href="https://www.typescriptlang.org/"><img height="22" src="https://skillicons.dev/icons?i=ts"></a></code>
-    <code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
+    &ensp;&ensp;<code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
     <code><a href="https://www.w3.org/TR/CSS/#css"><img height="22" src="https://skillicons.dev/icons?i=css"></a></code>
     <code><a href="https://https://tailwindcss.com/"><img height="22" src="https://skillicons.dev/icons?i=tailwind"></a></code>
     <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
     <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
+    <code><a href="https://vuejs.org"><img height="22" src="https://skillicons.dev/icons?i=vue"></a></code>
+    <code><a href="https://nuxt.com"><img height="22" src="https://skillicons.dev/icons?i=nuxt"></a></code>
 </p>

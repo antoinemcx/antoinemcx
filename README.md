@@ -30,10 +30,10 @@ Founder of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[StellarBotList](h
   <!--START_SECTION:waka-->
 
 ```txt
-PHP               6 hrs 48 mins   ███████████░░░░░░░░░░░░░░   43.58 %
-Java              4 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-XML               1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-TypeScript        1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+PHP               5 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.25 %
+Java              4 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 %
+XML               1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+TypeScript        1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
 ```
 
 <!--END_SECTION:waka-->

@@ -61,8 +61,8 @@ My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/b
 
 #### Most used languages and tools :
 <p> <!-- +mariadb -->
+    <code><a href="https://www.jetbrains.com/fr-fr/idea/"><img height="22" src="https://skillicons.dev/icons?i=idea"></a></code>
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
-    <code><a href="https://eclipseide.org/"><img height="22" src="https://skillicons.dev/icons?i=eclipse"></a></code>
     <code><a href="https://www.debian.org/index.fr.html"><img height="22" src="https://skillicons.dev/icons?i=debian"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
     <code><a href="https://www.docker.com"><img height="22" src="https://skillicons.dev/icons?i=docker"></a></code>

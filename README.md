@@ -1,28 +1,26 @@
 ## Hi i'm Melio 👋 &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
-Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French IT student.  
-Founder of **[Méliodas](https://meliodas.antoinemcx.fr)**, **[StellarBotList](https://stellarbotlist.com)** and **[Naybor](https://discord.com/oauth2/authorize?client_id=793213992910585898&permissions=8&scope=bot%20applications.commands)**, I'm in software engineering and sometimes in discord bots or web development.
-
-#
-
-<br>
+Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French CS student at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).  
+Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList](https://stellarbotlist.com)**, I'm interested in software engineering, full-stack web development and, for fun, discord bots.
 
 <details>
   <summary><b>🛰️ Find me</b></summary>
 
-  * Email - [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
   * Website - **[My personal website](https://antoinemcx.fr)**
+  * Email - [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
   * Twitter - [@dev_melio](https://twitter.com/dev_melio)
   * Discord - **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
 </details>
+
+#
+
+<br>
 <details>
-  <summary><b>📈 My github statistics</b></summary>
+  <summary><b>📈 My github stats</b></summary>
   
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15&hide_rank=true&card_width=350">
   &ensp;<img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&hide_title=true">
 </details>
-
-<br>
 
 <details>
   <summary><b>🕐 Weekly coding stats</b></summary>
@@ -40,7 +38,7 @@ JSON              36 mins         ▒░░░░░░░░░░░░░░�
 
 </details>
 <details>
-  <summary><b>🕙 Yearly coding stats</b></summary>
+  <summary><b>🕙 Yearly coding statistics</b></summary>
   
   <picture>
     <source

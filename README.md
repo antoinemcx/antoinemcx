@@ -40,6 +40,7 @@ JSON              36 mins         ▒░░░░░░░░░░░░░░�
 <details>
   <summary><b>🕙 Yearly coding statistics</b></summary>
   
+  <b>› Time per language :</b>  
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23&theme=dark"
@@ -50,6 +51,21 @@ JSON              36 mins         ▒░░░░░░░░░░░░░░�
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23" />
+  </picture>
+
+  <b>› Coding activity :</b>  
+  <picture>
+    <source
+      srcset="https://wakatime.com/share/@melio/9c7a8c90-3c51-4b6f-900b-d4d32dadb62f.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://wakatime.com/share/@melio/56ffd71c-4019-4bfe-bab5-706cc894dd59.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <a href="https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222">
+      <img src="https://wakatime.com/share/@melio/56ffd71c-4019-4bfe-bab5-706cc894dd59.png" />
+    </a>
   </picture>
 </details>
 

@@ -1,7 +1,7 @@
 ## Hi i'm Melio 👋 &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
 Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French CS student at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).  
-Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList](https://stellarbotlist.com)**, I'm interested in software engineering, full-stack web development and, for fun, discord bots.
+Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList](https://stellarbotlist.com)**, I'm interested in software engineering, web development and, for fun, discord bots.
 
 <details>
   <summary><b>🛰️ Find me</b></summary>

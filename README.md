@@ -18,8 +18,29 @@ Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList
 <details>
   <summary><b>📈 My github stats</b></summary>
   
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&hide_border=true&count_private=true&line-height=15&hide_rank=true&card_width=350">
-  &ensp;<img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_border=true&hide_title=true">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&count_private=true&line-height=15&hide_rank=true&card_width=350"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350" />
+  </picture>
+  &ensp;
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_title=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true" />
+  </picture>
 </details>
 
 <details>

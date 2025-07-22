@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Java              20 hrs 33 mins  ███████████████████▒░░░░░   76.95 %
-TypeScript        3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-SQL               1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Vue.js            1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Java              20 hrs 33 mins  ███████████████████░░░░░░   76.10 %
+TypeScript        3 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+SQL               1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Vue.js            1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->

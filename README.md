@@ -8,10 +8,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
 <details>
   <summary><b>🛰️ Find me</b></summary>
 
-  * Website - **[My personal website](https://antoinemcx.fr)**
-  * Email - [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
-  * Twitter - [@dev_melio](https://twitter.com/dev_melio)
-  * Discord - **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
+  * Website » **[My personal website](https://antoinemcx.fr)**
+  * Email » [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
+  * 𝕏 » [@dev_melio](https://twitter.com/dev_melio)
+  * Discord » **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
 </details>
 
 #
@@ -100,7 +100,7 @@ TypeScript        3 hrs 21 mins   ██▓░░░░░░░░░░░░�
   </div>
 </details>
 
-##### My coding time since the 23th of July 2023 : [![wakatime](https://wakatime.com/badge/user/70c9cecc-df19-4600-9919-f5dd6fd9b222.svg)](https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222)
+##### My coding time since August 2023 : [![wakatime](https://wakatime.com/badge/user/70c9cecc-df19-4600-9919-f5dd6fd9b222.svg)](https://wakatime.com/@70c9cecc-df19-4600-9919-f5dd6fd9b222)
 
 #
 

@@ -22,14 +22,14 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=dark&count_private=true&line-height=15&hide_rank=true&card_width=350"
+      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=dark&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350"
+      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&hide=prs,issues&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350" />
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true" />
   </picture>
   &ensp;
   <picture>
@@ -41,7 +41,7 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true" />
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true" />
   </picture>
 </details>
 

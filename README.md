@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       15 hrs 54 mins  ███████████████▒░░░░░░░░░   61.33 %
-JavaScript   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Java         2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Markdown     1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Vue.js       11 hrs 28 mins  ██████████████▒░░░░░░░░░░   56.99 %
+JavaScript   2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Java         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Markdown     1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 ```
 
 <!--END_SECTION:waka-->

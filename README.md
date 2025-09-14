@@ -51,9 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       6 mins          ███████████████████▒░░░░░   77.63 %
-Git Config   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-JSON         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Vue.js       13 mins         ██████████████████████░░░   87.84 %
+Git Config   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

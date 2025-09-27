@@ -51,7 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         15 mins         ███████████▒░░░░░░░░░░░░░   44.68 %
+Vue.js       12 mins         █████████▒░░░░░░░░░░░░░░░   37.21 %
+JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Markdown     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 
 <!--END_SECTION:waka-->

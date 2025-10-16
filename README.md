@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
-HTML         1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
-Ada          1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+TypeScript   2 hrs 44 mins   ███████████████░░░░░░░░░░   59.51 %
+HTML         1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Ada          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->

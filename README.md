@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-HTML         10 hrs 23 mins  █████████▒░░░░░░░░░░░░░░░   37.43 %
-TypeScript   7 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-SCSS         5 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-JSON         1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+HTML         11 hrs 30 mins  █████████▒░░░░░░░░░░░░░░░   37.40 %
+TypeScript   8 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+SCSS         5 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Vue.js       2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
 ```
 
 <!--END_SECTION:waka-->

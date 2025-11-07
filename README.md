@@ -1,6 +1,6 @@
 ## Hi i'm Melio 👋 &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
-Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French CS student at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).  
+Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French CS student at [ENSEEIHT](https://www.enseeiht.fr/en/index.html).  
 Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList](https://stellarbotlist.com)**, I'm interested in software engineering, web development and, for fun, discord bots.  
 
 Read more about me, my work and my projects on [my website](https://antoinemcx.fr).
@@ -108,20 +108,22 @@ SCSS         2 hrs 52 mins   ███░░░░░░░░░░░░░░
 <p> <!-- +mariadb -->
     <code><a href="https://www.jetbrains.com/fr-fr/idea/"><img height="22" src="https://skillicons.dev/icons?i=idea"></a></code>
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
-    <code><a href="https://www.debian.org/index.fr.html"><img height="22" src="https://skillicons.dev/icons?i=debian"></a></code>
+    <code><a href="https://visualstudio.microsoft.com/"><img height="22" src="https://skillicons.dev/icons?i=visualstudio"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
     <code><a href="https://www.docker.com"><img height="22" src="https://skillicons.dev/icons?i=docker"></a></code>
     &ensp;&ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
     <code><a href="https://spring.io/projects/spring-boot"><img height="22" src="https://skillicons.dev/icons?i=spring"></a></code>
+    <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="22" src="https://skillicons.dev/icons?i=cs"></a></code>
+    <code><a href="https://dotnet.microsoft.com/en-us"><img height="22" src="https://skillicons.dev/icons?i=dotnet"></a></code>
     <code><a href="https://javascript.com/"><img height="22" src="https://skillicons.dev/icons?i=js"></a></code>
     <code><a href="https://www.typescriptlang.org/"><img height="22" src="https://skillicons.dev/icons?i=ts"></a></code>
     <code><a href="https://nodejs.org/"><img height="22" src="https://skillicons.dev/icons?i=nodejs"></a></code>
     <code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
     &ensp;&ensp;<code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
-    <code><a href="https://www.w3.org/TR/CSS/#css"><img height="22" src="https://skillicons.dev/icons?i=css"></a></code>
     <code><a href="https://https://tailwindcss.com/"><img height="22" src="https://skillicons.dev/icons?i=tailwind"></a></code>
     <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
     <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
     <code><a href="https://vuejs.org"><img height="22" src="https://skillicons.dev/icons?i=vue"></a></code>
     <code><a href="https://nuxt.com"><img height="22" src="https://skillicons.dev/icons?i=nuxt"></a></code>
+    <code><a href="https://angular.dev"><img height="22" src="https://skillicons.dev/icons?i=angular"></a></code>
 </p>

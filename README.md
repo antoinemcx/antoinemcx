@@ -1,4 +1,4 @@
-## Hi i'm Melio 👋 &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
+## Hi, I'm Melio 👋 &ensp; [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=My%20server&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/G6WQsMQShZ)
 
 Welcome to my profile, I'm **Antoine** ([Melio.](https://discord.gg/G6WQsMQShZ)), a French CS student at [ENSEEIHT](https://www.enseeiht.fr/en/index.html).  
 Founder of **[Méliodas](https://meliodas.antoinemcx.fr)** and **[StellarBotList](https://stellarbotlist.com)**, I'm interested in software engineering, web development and, for fun, discord bots.  
@@ -10,8 +10,8 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
 
   * Website » **[My personal website](https://antoinemcx.fr)**
   * Email » [contact@antoinemcx.fr](mailto:contact@antoinemcx.fr)
-  * 𝕏 » [@dev_melio](https://twitter.com/dev_melio)
-  * Discord » **[My server dedicated to development](https://discord.gg/G6WQsMQShZ)**
+  * 𝕏 » [@antoinemcx](https://x.com/antoinemcx)
+  * Discord » **[My server, dedicated to development](https://discord.gg/G6WQsMQShZ)**
 </details>
 
 #
@@ -106,9 +106,9 @@ HTML         21 mins         ▒░░░░░░░░░░░░░░░░
 
 #### Most used languages and tools :
 <p> <!-- +mariadb -->
-    <code><a href="https://www.jetbrains.com/fr-fr/idea/"><img height="22" src="https://skillicons.dev/icons?i=idea"></a></code>
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img height="22" src="https://skillicons.dev/icons?i=visualstudio"></a></code>
+    <code><a href="https://www.jetbrains.com/fr-fr/idea/"><img height="22" src="https://skillicons.dev/icons?i=idea"></a></code>
     <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
     <code><a href="https://www.docker.com"><img height="22" src="https://skillicons.dev/icons?i=docker"></a></code>
     &ensp;&ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>

@@ -109,8 +109,8 @@ HTML         21 mins         ▒░░░░░░░░░░░░░░░░
     <code><a href="https://code.visualstudio.com/"><img height="22" src="https://skillicons.dev/icons?i=vscode"></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img height="22" src="https://skillicons.dev/icons?i=visualstudio"></a></code>
     <code><a href="https://www.jetbrains.com/fr-fr/idea/"><img height="22" src="https://skillicons.dev/icons?i=idea"></a></code>
-    <code><a href="https://git-scm.com/"><img height="22" src="https://skillicons.dev/icons?i=git"></a></code>
     <code><a href="https://www.docker.com"><img height="22" src="https://skillicons.dev/icons?i=docker"></a></code>
+    <code><a href="https://figma.com"><img height="22" src="https://skillicons.dev/icons?i=figma"></a></code>
     &ensp;&ensp;<code><a href="https://java.com/"><img height="22" src="https://skillicons.dev/icons?i=java"></a></code>
     <code><a href="https://spring.io/projects/spring-boot"><img height="22" src="https://skillicons.dev/icons?i=spring"></a></code>
     <code><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="22" src="https://skillicons.dev/icons?i=cs"></a></code>
@@ -121,7 +121,6 @@ HTML         21 mins         ▒░░░░░░░░░░░░░░░░
     <code><a href="https://www.mysql.com/"><img height="22" src="https://skillicons.dev/icons?i=mysql"></a></code>
     &ensp;&ensp;<code><a href="https://html.spec.whatwg.org/"><img height="22" src="https://skillicons.dev/icons?i=html"></a></code>
     <code><a href="https://https://tailwindcss.com/"><img height="22" src="https://skillicons.dev/icons?i=tailwind"></a></code>
-    <code><a href="https://react.dev/"><img height="22" src="https://skillicons.dev/icons?i=react"></a></code>
     <code><a href="https://nextjs.org/"><img height="22" src="https://skillicons.dev/icons?i=next"></a></code>
     <code><a href="https://vuejs.org"><img height="22" src="https://skillicons.dev/icons?i=vue"></a></code>
     <code><a href="https://nuxt.com"><img height="22" src="https://skillicons.dev/icons?i=nuxt"></a></code>

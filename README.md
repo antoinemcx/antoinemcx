@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   47.22 %
-C#           12 hrs 7 mins   ███████████░░░░░░░░░░░░░░   44.54 %
-Vue.js       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-HTML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C#           10 hrs 54 mins  ███████████▓░░░░░░░░░░░░░   47.05 %
+TypeScript   10 hrs 11 mins  ███████████░░░░░░░░░░░░░░   43.98 %
+Vue.js       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Binary       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->

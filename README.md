@@ -51,10 +51,10 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Ada          6 hrs 49 mins   █████████████████░░░░░░░░   68.62 %
-V            2 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
-Vue.js       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Ada          4 hrs 1 min     ██████████████▒░░░░░░░░░░   57.22 %
+V            2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.88 %
+Vue.js       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->

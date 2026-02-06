@@ -18,3 +18,4 @@ jobs:
           COMMIT_MESSAGE: Update weekly Wakatime stats
           TIME_RANGE: last_7_days
           LANG_COUNT: 4
+          SHOW_TOTAL: true

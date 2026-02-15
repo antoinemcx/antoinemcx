@@ -61,7 +61,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=light&disable_animations=true'
+          options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=default&disable_animations=true'
           path: profile/wakatime-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

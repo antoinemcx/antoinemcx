@@ -37,7 +37,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=dark&bg_color=000000&hide_border=false&border_radius=4.5&card_width=466hide=Dockerfile&hide_title=true&langs_count=6'
+          options: 'username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=dark&bg_color=000000&hide_border=false&border_radius=4.5&card_width=466&hide=Dockerfile&hide_title=true&langs_count=6'
           path: profile/top-langs-dark.svg
           token: ${{ secrets.PAT }}
 
@@ -45,7 +45,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466hide=Dockerfile&hide_title=true&langs_count=6"
+          options: "username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&hide=Dockerfile&hide_title=true&langs_count=6"
           path: profile/top-langs-light.svg
           token: ${{ secrets.PAT }}
 

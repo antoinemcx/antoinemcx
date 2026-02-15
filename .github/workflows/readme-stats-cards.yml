@@ -26,6 +26,14 @@ jobs:
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT }}
 
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&theme=default&icon_color=4c71f2&hide_border=false&locale=en&border_radius=4.5&card_width=350&hide_title=true&hide_rank=true&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short'
+          path: profile/stats-light.svg
+          token: ${{ secrets.PAT }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

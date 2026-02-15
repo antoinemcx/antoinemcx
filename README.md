@@ -21,27 +21,15 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <summary><b>📈 My github stats</b></summary>
   
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=dark&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=antoinemcx&show_icons=true&theme=light&count_private=true&line-height=15&hide_rank=true&card_width=350&hide_title=true" />
+    <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="165" align="center" src="./profile/stats-light.svg" />
   </picture>
   &ensp;
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=dark&layout=compact&count_private=true&hide_title=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinemcx&theme=light&layout=compact&count_private=true&hide_title=true" />
+    <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="165" align="center" src="./profile/top-langs-light.svg" />
   </picture>
 </details>
 
@@ -67,15 +55,9 @@ JSON         2 hrs 36 mins   ██░░░░░░░░░░░░░░░
   
   <b>› Time per language :</b>  
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=melio&langs_count=8&hide_title=true&line_height=23" />
+    <source srcset="./profile/wakatime-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="./profile/wakatime-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="./profile/wakatime-light.svg" />
   </picture>
 
   <div>

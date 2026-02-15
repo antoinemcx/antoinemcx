@@ -1,13 +1,15 @@
 name: GitHub Readme Stats
+
 on:
-  workflow_dispatch:
   schedule:
-  - cron: 0 */4 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
+    - cron: "0 2 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
 jobs:
   update-cards:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     name: Update cards
     steps:
       - name: Checkout
@@ -16,41 +18,57 @@ jobs:
       - name: Ensure output folder
         run: mkdir -p profile
 
-      - name: Generate stats (light mode)
+      - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&hide_rank=true&exclude_repo=github-readme-stats&theme=default'
-          path: profile/stats-light.svg
-          token: ${{ secrets.PAT }}
-
-      - name: Generate stats (dark mode)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&hide_rank=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000'
+          options: 'username=${{ github.repository_owner }}&theme=dark&bg_color=000000&icon_color=4c71f2&hide_border=false&locale=en&border_radius=4.5&card_width=350&hide_title=true&hide_rank=true&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short'
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT }}
 
-      - name: Generate top languages (light mode)
+      - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default'
-          path: profile/top-langs-light.svg
+          card: stats
+          options: 'username=${{ github.repository_owner }}&theme=default&icon_color=4c71f2&hide_border=false&locale=en&border_radius=4.5&card_width=350&hide_title=true&hide_rank=true&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short'
+          path: profile/stats-light.svg
           token: ${{ secrets.PAT }}
 
-      - name: Generate top languages (dark mode)
+      - name: Generate top languages card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000'
+          options: 'username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=dark&bg_color=000000&hide_border=false&border_radius=4.5&card_width=466hide=Dockerfile&hide_title=true&langs_count=6'
           path: profile/top-langs-dark.svg
           token: ${{ secrets.PAT }}
 
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466hide=Dockerfile&hide_title=true&langs_count=6"
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.PAT }}
+
+      - name: WakaTime yearly stats (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=dark&bg_color=000000&disable_animations=true'
+          path: profile/wakatime-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: WakaTime yearly stats (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=light&disable_animations=true'
+          path: profile/wakatime-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0

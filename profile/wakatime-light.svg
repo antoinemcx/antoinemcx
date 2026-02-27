@@ -116,7 +116,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="37.52%">
+      <svg data-testid="lang-progress" width="37.37%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >145 hrs 56 mins</text>
+      >147 hrs 2 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="19.62%">
+      <svg data-testid="lang-progress" width="19.67%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -158,11 +158,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >118 hrs 55 mins</text>
+      >118 hrs 54 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="15.98%">
+      <svg data-testid="lang-progress" width="15.91%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -176,16 +176,16 @@
     </g>
   </g><g transform="translate(0, 69)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Ada">Ada:</text>
+      <text class="stat bold" y="12.5" data-testid="C#">C#:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >56 hrs 10 mins</text>
+      >57 hrs 34 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="7.55%">
+      <svg data-testid="lang-progress" width="7.71%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -199,16 +199,16 @@
     </g>
   </g><g transform="translate(0, 92)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="C#">C#:</text>
+      <text class="stat bold" y="12.5" data-testid="Ada">Ada:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >55 hrs 16 mins</text>
+      >56 hrs 10 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="7.42%">
+      <svg data-testid="lang-progress" width="7.51%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -227,11 +227,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >36 hrs 9 mins</text>
+      >36 hrs 10 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="4.86%">
+      <svg data-testid="lang-progress" width="4.84%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -254,7 +254,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="3.82%">
+      <svg data-testid="lang-progress" width="3.8%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -273,7 +273,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >26 hrs 43 mins</text>
+      >26 hrs 49 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>

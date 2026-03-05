@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 7 mins
+Total Time: 11 hrs 38 mins
 
-TypeScript   8 hrs 43 mins         █████████████▓░░░░░░░░░░░   54.09 %
-C#           4 hrs 45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-HTML         1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-JSON         36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+TypeScript   5 hrs 14 mins         ███████████▒░░░░░░░░░░░░░   45.02 %
+C#           4 hrs 3 mins          ████████▓░░░░░░░░░░░░░░░░   34.81 %
+Java         1 hr 20 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+JSON         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->

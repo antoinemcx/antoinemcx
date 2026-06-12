@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 59 mins
+Total Time: 26 hrs 52 mins
 
-Java              13 hrs 57 mins        ████████████████░░░░░░░░░   63.45 %
-PlantUML file     1 hr 31 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Kotlin            1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Python            1 hr 26 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Java              17 hrs 1 min          ████████████████░░░░░░░░░   63.35 %
+Typst             1 hr 57 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Kotlin            1 hr 42 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python            1 hr 40 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->

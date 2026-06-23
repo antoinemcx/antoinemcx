@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 22 mins
+Total Time: 7 hrs 12 mins
 
-Typst           4 hrs 5 mins          ███████████▒░░░░░░░░░░░░░   45.50 %
-Java            3 hrs 42 mins         ██████████▒░░░░░░░░░░░░░░   41.25 %
-Other           36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Markdown        20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Typst           4 hrs 33 mins         ███████████████▒░░░░░░░░░   61.73 %
+Java            1 hr 10 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+PlantUML file   25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+JSON            21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->

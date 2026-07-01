@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 21 mins
+Total Time: 5 hrs 23 mins
 
-Go              2 hrs 51 mins         ███████████▒░░░░░░░░░░░░░   44.89 %
-Java            1 hr 10 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Markdown        47 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-PlantUML file   25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Go             3 hrs 48 mins         █████████████████▓░░░░░░░   70.83 %
+Markdown       47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+ObjectPascal   13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Mermaid        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->

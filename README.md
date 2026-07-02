@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 23 mins
+Total Time: 8 hrs 6 mins
 
-Go             3 hrs 48 mins         █████████████████▓░░░░░░░   70.83 %
-Markdown       47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-ObjectPascal   13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Mermaid        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Go             6 hrs 25 mins         ███████████████████▒░░░░░   76.95 %
+Markdown       52 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Other          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+ObjectPascal   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->

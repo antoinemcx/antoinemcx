@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 44 mins
+Total Time: 5 hrs 15 mins
 
-Go           5 hrs 50 mins         ██████████████████▒░░░░░░   72.92 %
-Markdown     1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-C#           21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Other        16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Go           3 hrs 45 mins         █████████████████▓░░░░░░░   70.96 %
+Markdown     1 hr 10 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+C#           11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->

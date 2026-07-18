@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 34 mins
+Total Time: 1 hr 24 mins
 
-Go         3 hrs 25 mins         █████████████████░░░░░░░░   68.43 %
-Bash       37 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Markdown   31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-Other      26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Go         52 mins               █████████████░░░░░░░░░░░░   52.41 %
+Markdown   17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+Other      15 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Bash       14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
 ```
 
 <!--END_SECTION:waka-->

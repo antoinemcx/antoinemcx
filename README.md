@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 52 mins
+Total Time: 7 hrs 37 mins
 
-Go                   6 hrs 17 mins         █████████████████░░░░░░░░   67.60 %
-TypeScript           50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-XML                  26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other                24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Go                   6 hrs 17 mins         ███████████████████▓░░░░░   78.12 %
+Other                24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+XML                  19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Delphi               12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->

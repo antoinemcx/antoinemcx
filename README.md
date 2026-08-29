@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 6 mins
+Total Time: 15 hrs 26 mins
 
-C#                         12 hrs 11 mins        █████████████▒░░░░░░░░░░░   53.26 %
-Go                         3 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-TypeScript                 2 hrs 44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-YAML                       58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+C#                         8 hrs 46 mins         █████████████▓░░░░░░░░░░░   54.93 %
+Go                         3 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+YAML                       58 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Bash                       39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->

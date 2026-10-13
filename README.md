@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 52 mins
+Total Time: 25 hrs 45 mins
 
-TypeScript   10 hrs 3 mins         ████████████▒░░░░░░░░░░░░   49.80 %
-Markdown     4 hrs 17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-JSON         1 hr 41 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-YAML         1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript   12 hrs 31 mins        ████████████░░░░░░░░░░░░░   47.82 %
+Markdown     4 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+JSON         1 hr 54 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+YAML         1 hr 30 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 ```
 
 <!--END_SECTION:waka-->

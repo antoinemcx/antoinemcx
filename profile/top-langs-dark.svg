@@ -59,7 +59,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -84,9 +86,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -116,7 +124,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="263.64"
+          width="261.44"
           height="8"
           fill="#3178c6"
         />
@@ -124,9 +132,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="263.64"
+          x="261.44"
           y="0"
-          width="95.22"
+          width="92.03"
           height="8"
           fill="#f1e05a"
         />
@@ -134,19 +142,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="358.86"
+          x="353.47"
           y="0"
-          width="25.22"
-          height="8"
-          fill="#a91e50"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="384.08000000000004"
-          y="0"
-          width="21.4"
+          width="27.85"
           height="8"
           fill="#41b883"
         />
@@ -154,9 +152,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="405.48"
+          x="381.32000000000005"
           y="0"
-          width="10.37"
+          width="24.38"
+          height="8"
+          fill="#a91e50"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="405.70000000000005"
+          y="0"
+          width="10.02"
           height="8"
           fill="#663399"
         />
@@ -164,9 +172,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="415.85"
+          x="415.72"
           y="0"
-          width="10.14"
+          width="10.28"
           height="8"
           fill="#e34c26"
         />
@@ -177,42 +185,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 63.38%
+        TypeScript 62.85%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 22.89%
+        JavaScript 22.12%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#a91e50" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        EJS 6.06%
+        Vue 6.69%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#a91e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 5.14%
+        EJS 5.86%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 2.49%
+        CSS 2.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 0.03%
+        HTML 0.07%
       </text>
     </g>
   </g></g>

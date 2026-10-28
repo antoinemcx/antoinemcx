@@ -58,8 +58,11 @@
     }
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
+      fill: #2f80ed;
     }
+    .progress-background { fill: #434d58; }
     
+          
 
           
       /* Animations */
@@ -84,9 +87,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -115,11 +124,11 @@
       >254 hrs 46 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="36.47%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 750ms;"
@@ -138,11 +147,11 @@
       >147 hrs 13 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="21.07%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 900ms;"
@@ -161,11 +170,11 @@
       >73 hrs 30 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="10.52%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1050ms;"
@@ -184,11 +193,11 @@
       >54 hrs 37 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="7.82%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1200ms;"
@@ -207,11 +216,11 @@
       >51 hrs 59 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="7.44%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1350ms;"
@@ -230,11 +239,11 @@
       >47 hrs 31 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="6.8%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1500ms;"
@@ -253,11 +262,11 @@
       >35 hrs 58 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="5.15%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1650ms;"
@@ -276,11 +285,11 @@
       >35 hrs 14 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
       <svg data-testid="lang-progress" width="5.04%">
         <rect
             height="8"
-            fill="#2f80ed"
+            
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1800ms;"

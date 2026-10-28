@@ -18,7 +18,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&theme=dark&bg_color=000000&icon_color=4c71f2&hide_border=false&locale=en&border_radius=4.5&card_width=350&hide_title=true&hide_rank=true&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short'
@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&theme=default&icon_color=4c71f2&hide_border=false&locale=en&border_radius=4.5&card_width=350&hide_title=true&hide_rank=true&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short'
@@ -34,7 +34,7 @@ jobs:
           token: ${{ secrets.PAT }}
           
       - name: Generate top languages card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=dark&bg_color=000000&hide_border=false&border_radius=4.5&card_width=466&hide=Dockerfile&hide_title=true&langs_count=6'
@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&hide=Dockerfile&hide_title=true&langs_count=6"
@@ -50,7 +50,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: WakaTime yearly stats (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
           options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=dark&bg_color=000000&disable_animations=true'
@@ -58,7 +58,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: WakaTime yearly stats (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
           options: 'username=melio&langs_count=8&hide_title=true&line_height=23&theme=default&disable_animations=true'

@@ -39,12 +39,12 @@ Read more about me, my work and my projects on [my website](https://antoinemcx.f
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 5 mins
+Total Time: 1 hr 58 mins
 
-Python       1 hr 59 mins          ████████████░░░░░░░░░░░░░   47.58 %
-TypeScript   1 hr 43 mins          ██████████▒░░░░░░░░░░░░░░   40.99 %
-Bash         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Text         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript   1 hr 43 mins          █████████████████████▒░░░   85.51 %
+Bash         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Markdown     3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
